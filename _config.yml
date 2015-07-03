@@ -1,2 +1,3 @@
 name: Chanelle White, Web Designer/Developer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
